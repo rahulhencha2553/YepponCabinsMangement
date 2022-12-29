@@ -117,6 +117,6 @@ public class CustomerTest {
 
 		System.out.println();
 		System.out.println("\nThank you for using the Yeppoon Cabins Management System");
-		System.out.println("Program written By Rahul Hencha <123456>");
+		System.out.println("Program written By StudentID <123456>");
 	}
 }
